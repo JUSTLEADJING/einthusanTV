@@ -11,7 +11,7 @@
     "types": ["movie"],
     "idPrefixes": ["einthusan_id"],
     "behaviorHints": {
-        "configurable": true,
-        "configurationRequired": true
+        "configurable": false,
+        "configurationRequired": false
     }
 }
